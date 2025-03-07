@@ -20,3 +20,4 @@ FontAwesome Icons - UI icons
 4. Start development server
    npm run dev
 
+Deployed on Vercel : https://react-landing-page-intelion.vercel.app/
