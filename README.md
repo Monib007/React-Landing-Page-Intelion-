@@ -1,7 +1,7 @@
 # Intelion Landing Page
 A responsive landing page build with React and Tailwind CSS.
 
-# Tech Sack 
+# Tech Stack 
 React.js - Frontend
 Tailwind CSS - Design and styling
 FontAwesome Icons - UI icons
