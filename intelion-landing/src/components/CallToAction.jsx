@@ -13,10 +13,11 @@ const CallToAction = () => {
         Transform Your Financial Future
       </h2>
       <p className="mt-4 max-w-xl mx-auto text-lg opacity-90 animate-slide-in">
-        Partner with Intelion to leverage cutting-edge fintech solutions designed for scalability and security.
+        Partner with Intelion to leverage cutting-edge fintech solutions
+        designed for scalability and security.
       </p>
 
-      <button className="mt-6 px-8 py-3 bg-white text-yellow-600 rounded-lg font-semibold shadow-lg transition-all transform hover:bg-gray-200 hover:scale-105 animate-bounce">
+      <button className="mt-6 px-8 py-3 bg-white text-yellow-600 rounded-lg font-semibold shadow-lg transition-all transform hover:bg-gray-200 hover:scale-105 animate-bounce cursor-pointer">
         <FontAwesomeIcon icon={faRocket} className="mr-2 text-yellow-600" />
         Get Started
       </button>
